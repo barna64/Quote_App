@@ -1,4 +1,4 @@
-# flutter_application_2
+# Quote App
 # ID : 0182220012101185
 A new Flutter project.
 
